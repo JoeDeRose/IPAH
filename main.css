@@ -1,0 +1,119 @@
+.Header
+	{
+		background-color:#E24A0C;
+		height:150px;
+		border-bottom:2px #003366 solid;
+		width:102%;
+		margin-left:-10px;
+		margin-top:-15px;
+	}
+
+.IPAH
+	{
+		font-variant:small-caps;
+		font-size:2.5em;
+		font-weight:bold;
+		letter-spacing:0.1em;
+		color:#FFFFCC;
+	}
+
+.MainFrame
+	{
+		width:100%;
+		text-align:center;
+	}
+
+.MainFrame td
+	{
+		vertical-align:top;
+	}
+
+.Menu
+	{
+		border:2px #003366 solid;
+		background-color:#EEE983;
+		margin-left:50px;
+		width:250px;
+		border-spacing:0px;
+		padding:0px;
+	}
+
+.Submenu
+	{
+		border:2px #003366 solid;
+		background-color:#EEE983;
+		border-spacing:0px;
+		padding:0px;
+	}
+
+.MenuItemList
+	{
+		width:100%;
+		font-size:1.5em;
+		font-weight:bold;
+		font-family:Arial, Helvetica, sans-serif;
+		border-spacing:0px;
+		padding:0px;
+	}
+
+.MenuItem
+	{
+		text-align:center;
+		color:#1A1418;
+		padding:0.5em;
+		vertical-align:middle;
+		cursor:pointer;
+	}
+
+.MenuItem a
+	{
+		color:#1A1418;
+		text-decoration:none;
+	}
+
+.MenuItem:hover
+	{
+		background-color:#FFFFCC;
+	}
+
+.MenuItemSelected
+	{
+		text-align:center;
+		color:#1A1418;
+		padding:0.5em;
+		vertical-align:middle;
+		background-color:#E3D751;
+		cursor:pointer;
+	}
+
+.MenuItemSelected a
+	{
+		color:#1A1418;
+		text-decoration:none;
+	}
+
+.MenuItemSelected:hover
+	{
+		background-color:#FFFFCC;
+	}
+
+.Content
+	{
+		padding:15px;
+		border:2px #003366 solid;
+		text-align:left;
+		font-family:Arial, Helvetica, sans-serif;
+		width:100%;
+		margin-left:auto;
+		margin-right:auto;
+	}
+
+.Centered
+	{
+		text-align:center;
+	}
+
+.FloatRight
+	{
+		float:right;
+	}

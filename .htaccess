@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^inmanparkanimalhospital.com$
+RewriteRule ^/?$ "http\:\/\/www\.inmanparkanimalhospital\.com\/" [R=301,L]
+
